@@ -20,7 +20,6 @@
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
     "react-parallax-tilt": "^1.7.286",
-    "react-tilt": "^1.0.2",
     "split-type": "^0.3.4",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7"
