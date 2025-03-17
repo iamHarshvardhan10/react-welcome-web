@@ -6,15 +6,14 @@ import Experience from "./component/Experience";
 import Customer from "./component/Customer";
 import Studio from "./component/Studio";
 import Revenue from "./component/Revenue";
-import Works from "./component/works";
 import Footer from "./component/Footer";
-import Oppernuties from "./component/Oppernuties";
 import Data from "./component/Data";
 import Article from "./component/Article";
 import Join from "./component/Join";
 import SignUp from "./component/SignUp";
 import ExperienceWelcome from "./component/ExperienceWelcome";
 import Trust from "./component/Trust";
+import Works from "./component/Works";
 const App = () => {
   return (
     <div className="overflow-x-hidden">
